@@ -1,0 +1,34 @@
+Cell_type	Number
+AT2	9034
+T cells	8988
+CD163+MRC1+	3391
+Capillary	3235
+CD163+MRC1-	2806
+Pericyte	2378
+Capillary aerocyte	1805
+Myofibroblast	1493
+NK cells	1073
+Vein	997
+Fibroblast	696
+Smooth muscle	694
+B cells	633
+CD163+MRC1+TREM2+	632
+AT1	628
+Non-classical Monocytes	617
+CD163+MRC1+SIGLEC1hi	447
+Club cells	417
+Mesothelial	357
+Artery	344
+pDC	341
+Fibromyocete	320
+Adventitial Fibroblast	319
+MAST	310
+cDC2	176
+Plasma cells	117
+Neutrophils	108
+Ciliated	85
+Basal cells	82
+Lymphatic	64
+cDC1	63
+Bronchial vessel	49
+
